@@ -1,0 +1,1 @@
+I got the multiplayer wokring rather fast. My idea was to get as close as I could using ChatGPT, and then going in and debugging the issues. I made a really long first prompt describing the context and feature I wanted to implement. I copied and pasted the code to see what would happen, and it just happened to work perfectly the first time. 
